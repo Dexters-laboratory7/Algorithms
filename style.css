@@ -1,0 +1,36 @@
+<link rel="preconnect"href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap"rel="stylesheet">
+<style>
+html {
+    background-color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 0;
+}
+
+li {
+    dislpay: inline;
+    float: left;
+}
+
+a {
+    dispaly: block;
+    padding: 8px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+    text-decoration: none;
+    color: grey;
+}
+
+a:hover {
+
+    background-color: white;
+    color: black;
+    pading: 15px;
+    transition: 1s ease;
+}
+
+</style>
