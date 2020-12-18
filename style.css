@@ -1,6 +1,7 @@
 @font-face {
     font-family: Oswald;
     src: url(/Oswald/static/Oswald-Bold.ttf);
+    font-weight: 700;
 }
 
 html {
@@ -23,9 +24,10 @@ a {
     padding: 8px;
     font-family: 'Oswald', sans-serif;
     font-size: 32px;
+    font-weight: 900;
     text-decoration: none;
     color: grey;
-    border-radius: 10px;
+    border-radius: 25px;
 }
 
 a:hover {
